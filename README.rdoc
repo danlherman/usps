@@ -6,11 +6,6 @@ PDF Guides can be found here: https://www.usps.com/business/webtools-technical-g
 
 Usage of this library assumes you already have a USPS API account and that all priviledges have been granted.
 
-== Project Status - Looking for a Maintainer
-
-This code is no longer properly maintained as I'm no longer with the company it was developed for.
-If you're using it and would be interested in maintaining it please send me a message and I can
-get you set up.
 
 == Exposed API Calls
 
